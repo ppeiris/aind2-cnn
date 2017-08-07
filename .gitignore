@@ -11,3 +11,7 @@ transfer-learning/dogImages
 transfer-learning/bottleneck_features/DogVGG16Data.npz
 transfer-learning/.ipynb_checkpoints/
 transfer-learning/.DS_Store
+cifar10-classification/MLP.weights.best.hdf5
+transfer-learning/dogvgg16.weights.best.hdf5
+transfer-learning/dogImages.zip.1
+
